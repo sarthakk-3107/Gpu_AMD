@@ -9,19 +9,6 @@ Built to understand how networking constraints impact large-scale ML training ac
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28%2B-ff4b4b)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
----
-
-## Demo
-
-### Bottleneck Analysis & Recommendations
-![Bottleneck Analysis](docs/bottleneck_analysis.png)
-
-### Bandwidth & Latency Profiling
-![Dashboard Charts](docs/dashboard_charts.png)
-
-> Screenshots from the Streamlit dashboard running on local benchmark data.
-
----
 
 ## Why This Project?
 
